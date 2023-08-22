@@ -1,5 +1,7 @@
 # cake-brew
-The Homebrew GUI App for OS X
+## ![Screenshot 2023-08-21 at 11 04 25 PM](https://github.com/sudo-self/cake-brew/assets/119916323/753a310b-458b-4a30-83ba-792738328fb6)
+
+### The Homebrew GUI App for OS X
 Cakebrew is the most convenient way to use Homebrew for your daily tasks! It does for Homebrew what Synaptics does to Linux package managers. From the Cakebrew UI, you can:
 
 Search for formulae
